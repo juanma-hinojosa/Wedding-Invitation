@@ -1,0 +1,46 @@
+.regalos {
+    background-color:  #C9D8B6;
+    /* padding: 0px 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.wrapper-regalos {
+    padding: 50px;
+}
+
+.regalos-title {
+    font-size: 5em;
+    font-weight: 400;
+    color: #57837B;
+}
+
+.resumen-title > p {
+    color: #515E63;
+    letter-spacing: 2px;
+    font-weight: 100;
+    margin: 20px 0px;
+}
+
+.content-icons {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    text-align: center;
+}
+
+.content-icons > .icon i {
+    color: #57837B;
+    font-size: 2.7em;
+    transition: .3s;
+}
+
+.content-icons > .icon i:hover {
+    color: black;
+}
+
+.content-icons > .icon p {
+    color: #515E63;
+}

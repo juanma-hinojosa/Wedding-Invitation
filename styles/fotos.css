@@ -1,0 +1,49 @@
+.fotos {
+    background-color: #FEFBF3;
+    /* height: 100vh; */
+    /* padding: 0px 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.wrapper-fotos {
+    padding: 50px;
+}
+
+.title-fotos {
+    font-size: 5em;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #79B4B7;
+}
+
+.resumen-fotos {
+    color: #9D9D9D;
+}
+
+.name-fotografo {
+    font-size: 1.4rem;
+}
+
+.links-icon {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 0px;
+}
+
+.links-icon > .icon {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100px;
+    height: 50px;
+    font-size: 2rem;
+    transition: 0.3s;
+}
+
+.links-icon > .icon:hover {
+    color: #9D9D9D;
+    font-size: 2.3rem;
+}

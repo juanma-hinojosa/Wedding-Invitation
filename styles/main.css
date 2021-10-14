@@ -1,0 +1,58 @@
+.homepage {
+    background-color: #515E63;
+    height: 100vh;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.homepage-content > .title {
+    font-size: 5em;
+    font-weight: 400;
+    margin-bottom: 30px;
+    color: #F1ECC3;
+}
+
+.homepage-content > .event {
+    font-size: 1.1em;
+    font-weight: 100;
+}
+
+.event > .dia {
+    margin: 20px;
+    color: #F1ECC3;
+    letter-spacing: 2px;
+}
+
+.event > .lugar {
+    margin: 20px;
+    color: #F1ECC3;
+    letter-spacing: 2px;
+}
+
+.event > .butom {
+    margin: 30px 0px;
+}
+
+.event > .butom a{
+    background-color: #F1ECC3;
+    color: black;
+    padding: 10px 50px;
+    text-decoration: none;
+    border: 1px solid 57837B;
+    letter-spacing: 2px;
+    font-weight: 100;
+    transition: .4s;
+}
+
+.event > .butom a:hover {
+    background-color: #57837B;
+    color: black;
+    border: 1px solid #57837B;
+    padding: 10px 50px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: 100;
+}

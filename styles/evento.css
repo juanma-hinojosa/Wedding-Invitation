@@ -1,0 +1,26 @@
+.evento {
+    background-color: #F1ECC3;
+    /* padding: 0px 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.wrapper-evento {
+    padding: 50px;
+}
+
+.evento-title {
+    font-size: 5em;
+    font-weight: 400;
+    color: #515E63;
+    letter-spacing: 2px;
+    /* margin-bottom: 30px; */
+}
+
+.content-evento {
+    padding: 30px 0px;
+    color: #57837B;
+}
+

@@ -1,0 +1,26 @@
+.historia {
+    background-color: #C9D8B6;
+    height: 100vh;
+    /* padding: 0px 50px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.wrapper-historia {
+    padding: 50px;
+    color: #57837B;
+}
+
+.title-historia {
+    font-size: 5em;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.content-historia p {
+    color: #515E63;
+    font-size: 0.9em;
+    letter-spacing: 2px;
+}
